@@ -1,0 +1,6 @@
+{
+	"name": "tyz910/habr_brute",
+	"require": {
+		"fabpot/goutte": "v2.0.1"
+	}
+}
